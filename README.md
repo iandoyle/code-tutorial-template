@@ -1,5 +1,11 @@
 # Learn within VSCode
 
+![](docs/new_folder-1601039955390.gif)
+
+> No need to clone.
+> This repo compiles the tutorial.
+> Users need the plugin and a link to the tutorial
+
 ## Requirements
   - [CodeRoad Extension for VS Code](https://marketplace.visualstudio.com/items?itemName=CodeRoad.coderoad)
 
