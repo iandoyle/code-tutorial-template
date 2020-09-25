@@ -1,0 +1,58 @@
+{
+  "version": "0.1.0",
+  "summary": {
+    "title": "Introduction",
+    "description": "This is an introduction to the tutorial. It will show up on the first page when the tutorial is started."
+  },
+  "config": {
+    "testRunner": {
+      "command": "./node_modules/.bin/mocha",
+      "args": {
+        "tap": "--reporter=mocha-tap-reporter"
+      },
+      "directory": "coderoad"
+    },
+    "setup": {
+      "commands": [
+        "cd coderoad && npm install"
+      ],
+      "commits": [
+        "aecbc9f28d67fc8933435ed784771e570069858b"
+      ]
+    },
+    "repo": {
+      "uri": "https://github.com/iandoyle/code-tutorial-template",
+      "branch": "v0.1.0"
+    },
+    "dependencies": [
+      {
+        "name": "node",
+        "version": ">=10"
+      }
+    ]
+  },
+  "levels": [
+    {
+      "id": "1",
+      "title": "Create index.html",
+      "summary": "Optional summary for Level 1",
+      "content": "Here's is a description, examples, and instructions for the lesson.",
+      "steps": [
+        {
+          "id": "1.1",
+          "content": "Create an `index.html` file to pass this lesson.",
+          "setup": {
+            "commits": [
+              "37adde07e0a4ab99a9d975f6a8805dd2eb442fed"
+            ]
+          },
+          "solution": {
+            "commits": [
+              "dfd9a2ddc2b343ecf0cf6f92099e55d8011d247b"
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}
