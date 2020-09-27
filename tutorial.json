@@ -65,7 +65,8 @@
           "hints": [
             "Add `<!DOCTYPE html>` at the top of `index.html` and save the file",
             "<a href='https://youtu.be/dQw4w9WgXcQ' target='_blank' alt='video 2.1'>Video 2.1</a>",
-            "<img src='https://github.com/iandoyle/code-tutorial-template/raw/v0.1.0/coderoad/assets/1.png' alt='hint' />"
+            "<img src='https://github.com/iandoyle/code-tutorial-template/raw/v0.1.0/coderoad/assets/1.png' alt='hint' />",
+            "<iframe src='https://wokwi.com/share/embed/EJ2iEW0DDrfmajAnVNSq' width='745' height='400'></iframe>"
           ],
           "solution": {
             "commits": ["82f8bb385ba8c5628d7f2cf86ccbfc7f3994021b"]
