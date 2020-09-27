@@ -63,7 +63,7 @@
           "hints": [
             "Add `<!DOCTYPE html>` at the top of `index.html` and save the file",
             "![](/coderoad/assets/1.png)",
-            "<img src='/coderoad/assets/1.png' alt='hint' />"
+            "<img src='./coderoad/assets/1.png' alt='hint' />"
           ],
           "solution": {
             "commits": ["82f8bb385ba8c5628d7f2cf86ccbfc7f3994021b"]
