@@ -62,8 +62,7 @@
           "content": "Add the DOCTYPE",
           "hints": [
             "Add `<!DOCTYPE html>` at the top of `index.html` and save the file",
-            "<script src='https://rawcdn.githack.com/iandoyle/lit-sandbox/5b91349d1552e3382aa6e13446db6f410f44a619/docs/lib/lit.js'></script>",
-            "<x-app></x-app>",
+            "<video width='640' height='360' controls><source src='https://gist.githubusercontent.com/iandoyle/0db33cc44d2ba22b91f3acc82d4d0510/raw/b92b6beccc3fc6a220f0642e9ad20cf8d09da90c/2%20-%20Autorun---upload.mp4'  type='video/mp4' /></video>",
             "<img src='https://github.com/iandoyle/code-tutorial-template/raw/v0.1.0/coderoad/assets/1.png' alt='hint' />"
           ],
           "solution": {
