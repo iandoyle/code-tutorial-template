@@ -13,12 +13,8 @@
       "directory": "coderoad"
     },
     "setup": {
-      "commands": [
-        "cd coderoad && npm install"
-      ],
-      "commits": [
-        "aecbc9f28d67fc8933435ed784771e570069858b"
-      ]
+      "commands": ["cd coderoad && npm install"],
+      "commits": ["aecbc9f28d67fc8933435ed784771e570069858b"]
     },
     "repo": {
       "uri": "https://github.com/iandoyle/code-tutorial-template",
@@ -41,18 +37,12 @@
         {
           "id": "1.1",
           "content": "Create an `index.html` file to pass this lesson.",
-          "hints": [
-            "This is a hint to help people pass the level"
-          ],
+          "hints": ["This is a hint to help people pass the level"],
           "setup": {
-            "commits": [
-              "37adde07e0a4ab99a9d975f6a8805dd2eb442fed"
-            ]
+            "commits": ["37adde07e0a4ab99a9d975f6a8805dd2eb442fed"]
           },
           "solution": {
-            "commits": [
-              "dfd9a2ddc2b343ecf0cf6f92099e55d8011d247b"
-            ]
+            "commits": ["dfd9a2ddc2b343ecf0cf6f92099e55d8011d247b"]
           }
         }
       ]
@@ -66,18 +56,17 @@
         {
           "id": "2.1",
           "setup": {
-            "files": [
-              "index.html"
-            ],
-            "commits": [
-              "7ef81ab02bae40e9ba7dda7ef2e9eba655ee882f"
-            ]
+            "files": ["index.html"],
+            "commits": ["7ef81ab02bae40e9ba7dda7ef2e9eba655ee882f"]
           },
           "content": "Add the DOCTYPE",
+          "hints": [
+            "Add `<!DOCTYPE html>` at the top of `index.html` and save the file",
+            "![](/coderoad/assets/1.png)",
+            "<img src='/coderoad/assets/1.png' alt='hint' />"
+          ],
           "solution": {
-            "commits": [
-              "82f8bb385ba8c5628d7f2cf86ccbfc7f3994021b"
-            ]
+            "commits": ["82f8bb385ba8c5628d7f2cf86ccbfc7f3994021b"]
           }
         }
       ]
