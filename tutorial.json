@@ -62,10 +62,10 @@
           "content": "Add the DOCTYPE",
           "hints": [
             "Add `<!DOCTYPE html>` at the top of `index.html` and save the file",
-            "![](./coderoad/test/1.png)",
-            "![](/coderoad/test/1.png)",
-            "![](/test/1.png)",
-            "![](./test/1.png)",
+            "<img src='./coderoad/test/1.png' alt='' />",
+            "<img src='/coderoad/test/1.png' alt='' />",
+            "<img src='/test/1.png' alt='' />",
+            "<img src='./test/1.png' alt='' />",
             "<img src='https://github.com/iandoyle/code-tutorial-template/raw/v0.1.0/coderoad/assets/1.png' alt='hint' />"
           ],
           "solution": {
