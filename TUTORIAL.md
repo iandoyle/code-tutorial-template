@@ -29,4 +29,5 @@ Add the DOCTYPE
 #### HINTS
 
 - Add `<!DOCTYPE html>` at the top of `index.html` and save the file
-- ![](/coderoad/assets/1.png)
+
+![](/coderoad/assets/1.png)
