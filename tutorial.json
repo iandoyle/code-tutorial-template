@@ -64,7 +64,7 @@
           "content": "Add the DOCTYPE",
           "hints": [
             "Add `<!DOCTYPE html>` at the top of `index.html` and save the file",
-            "<iframe width='560' height='315' src='https://www.youtube.com/embed/dQw4w9WgXcQ' frameborder='0' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe>",
+            "<a href='https://youtu.be/dQw4w9WgXcQ' target='_blank' alt='video 2.1'>Video 2.1</a>",
             "<img src='https://github.com/iandoyle/code-tutorial-template/raw/v0.1.0/coderoad/assets/1.png' alt='hint' />"
           ],
           "solution": {
